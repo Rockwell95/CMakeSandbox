@@ -1,0 +1,6 @@
+#ifndef VERSION_H_
+#define VERSION_H_
+#define VERSION_MAJOR "@TestProj_VERSION_MAJOR@"
+#define VERSION_MINOR "@TestProj_VERSION_MINOR@"
+#define SYSTEM_NAME "@CMAKE_SYSTEM_NAME@"
+#endif /* VERSION_H_ */
