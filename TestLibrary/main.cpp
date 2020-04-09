@@ -2,6 +2,7 @@
 // Created by Nick Mancini on 2020-04-06.
 //
 
+#include <memory>
 #include "exported.h"
 #include "library.h"
 
